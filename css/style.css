@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+}
+
+div{
+    margin: 100px;
+    text-align: left;
+}
+
+img.align-left{
+    float: left;
+    margin-right: 30px;
+}
+
+nav{
+    margin: 20px;
+}
