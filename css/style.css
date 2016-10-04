@@ -1,3 +1,7 @@
+body{
+    background-color: #b2d393;
+}
+
 header{
     text-align: center;
 }
@@ -7,6 +11,10 @@ div{
     text-align: left;
 }
 
+article{
+    margin:30px;
+}
+
 img.align-left{
     float: left;
     margin-right: 30px;
@@ -14,4 +22,22 @@ img.align-left{
 
 nav{
     margin: 20px;
+}
+
+.temp{
+    width:300px;
+    height:700px;
+}
+
+.normal{
+    margin:10px;
+}
+
+.centered{
+    font-family: "Adobe Gothic Std B";
+    font-style: italic;
+    text-align: center;
+    width:auto;
+    height:auto;
+    margin:0 auto;
 }
